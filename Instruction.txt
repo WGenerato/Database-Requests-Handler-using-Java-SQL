@@ -1,0 +1,2 @@
+When clicking run,the program will display a list of query. Enter number from 1 to 10 to retrieve the results. 
+To execute the next query, re-run the program and enter the new query number.
